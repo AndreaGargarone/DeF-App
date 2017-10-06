@@ -7,7 +7,8 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="Dentro &amp; Fuori"
+        android:label="D&amp;F"
+        android:logo="@drawable/icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name=".MainActivity" >
